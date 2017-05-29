@@ -2,6 +2,12 @@
 ==========  
 SpeedoMeter app for android
 
+Usage
+----------------
+Download apk from [Releases](https://github.com/praharshjain/SpeedoMeter/releases)
+
+Or open project with Android Studio and build from source
+
 License
 ----------------
 MIT
